@@ -1,0 +1,14 @@
+C:\Users\Dell\RiderProjects\BaiThiC1\BaiThiC1\bin\Debug\net8.0\BaiThiC1.exe
+C:\Users\Dell\RiderProjects\BaiThiC1\BaiThiC1\bin\Debug\net8.0\BaiThiC1.deps.json
+C:\Users\Dell\RiderProjects\BaiThiC1\BaiThiC1\bin\Debug\net8.0\BaiThiC1.runtimeconfig.json
+C:\Users\Dell\RiderProjects\BaiThiC1\BaiThiC1\bin\Debug\net8.0\BaiThiC1.dll
+C:\Users\Dell\RiderProjects\BaiThiC1\BaiThiC1\bin\Debug\net8.0\BaiThiC1.pdb
+C:\Users\Dell\RiderProjects\BaiThiC1\BaiThiC1\obj\Debug\net8.0\BaiThiC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\RiderProjects\BaiThiC1\BaiThiC1\obj\Debug\net8.0\BaiThiC1.AssemblyInfoInputs.cache
+C:\Users\Dell\RiderProjects\BaiThiC1\BaiThiC1\obj\Debug\net8.0\BaiThiC1.AssemblyInfo.cs
+C:\Users\Dell\RiderProjects\BaiThiC1\BaiThiC1\obj\Debug\net8.0\BaiThiC1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\BaiThiC1\BaiThiC1\obj\Debug\net8.0\BaiThiC1.dll
+C:\Users\Dell\RiderProjects\BaiThiC1\BaiThiC1\obj\Debug\net8.0\refint\BaiThiC1.dll
+C:\Users\Dell\RiderProjects\BaiThiC1\BaiThiC1\obj\Debug\net8.0\BaiThiC1.pdb
+C:\Users\Dell\RiderProjects\BaiThiC1\BaiThiC1\obj\Debug\net8.0\BaiThiC1.genruntimeconfig.cache
+C:\Users\Dell\RiderProjects\BaiThiC1\BaiThiC1\obj\Debug\net8.0\ref\BaiThiC1.dll
